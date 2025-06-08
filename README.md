@@ -81,7 +81,7 @@ Open-ended survey responses often suffer from issues like copy-pasting, gibberis
 ## 📁 Repository Structure
 
 ```
-Survey-Response-Quality-Analysis/
+Survey-Analysis/
 │
 ├── data/                   # Raw and preprocessed survey datasets
 ├── models/                 # Saved ML models
@@ -115,8 +115,8 @@ pip install -r requirements.txt
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Ishan1440/Survey-Response-Quality-Analysis.git
-   cd Survey-Response-Quality-Analysis
+   git clone https://github.com/Sanyam753/Survey-Analysis.git
+   cd Survey-Analysis
    ```
 
 2. Prepare your survey dataset:
